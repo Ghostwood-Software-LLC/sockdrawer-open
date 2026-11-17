@@ -1,0 +1,122 @@
+{
+  "format" : {
+    "albumFields" : [
+      "createdAt",
+      "id",
+      "name"
+    ],
+    "archiveMagic" : "MJA1",
+    "archiveVersion" : 1,
+    "entryFields" : [
+      "length",
+      "name"
+    ],
+    "fileHeaderLength" : 32,
+    "fileMagic" : "MJV1",
+    "indexFields" : [
+      "albums",
+      "backupReminderSnoozedUntil",
+      "didBackfillCaptureDates",
+      "items",
+      "keys",
+      "lastArchivedAt",
+      "schemaVersion"
+    ],
+    "indexSchema" : 2,
+    "itemFields" : [
+      "addedAt",
+      "albumIDs",
+      "byteCount",
+      "capturedAt",
+      "contentHash",
+      "deletedAt",
+      "duration",
+      "fileExtension",
+      "id",
+      "isFavorite",
+      "keyID",
+      "kind",
+      "pixelHeight",
+      "pixelWidth"
+    ],
+    "kinds" : [
+      "photo",
+      "video"
+    ],
+    "maxIterations" : 10000000,
+    "wrapFields" : [
+      "ciphertext",
+      "iterations",
+      "salt",
+      "slot"
+    ]
+  },
+  "items" : [
+    {
+      "albums" : [
+        "Trip"
+      ],
+      "deleted" : false,
+      "favorite" : false,
+      "file" : "2026-11-17_141148_79996237.mov",
+      "id" : "79996237-6A33-48BD-9201-2D1DF88D3BF4",
+      "kind" : "video",
+      "mergedKey" : false,
+      "missing" : false,
+      "sha256" : "539217a460c7b678bbe39099f43ba96bd19cc7a9f5faf851cfcea5302428856b"
+    },
+    {
+      "albums" : [
+
+      ],
+      "deleted" : false,
+      "favorite" : false,
+      "file" : "",
+      "id" : "C6454D79-C538-4BEC-BF04-CA2FEC3F2A08",
+      "kind" : "photo",
+      "mergedKey" : false,
+      "missing" : true,
+      "sha256" : "8df97439224263214591a8ef19f159a7e6442977c35b5cad96d2e53f4a83a17c"
+    },
+    {
+      "albums" : [
+
+      ],
+      "deleted" : true,
+      "favorite" : true,
+      "file" : "Recently Deleted\/2026-11-17_141147_a51fb71f.jpg",
+      "id" : "A51FB71F-402C-4BB5-B61C-D8C5BAD97D27",
+      "kind" : "photo",
+      "mergedKey" : false,
+      "missing" : false,
+      "sha256" : "85226e0e0172c46939da71b4c8b8273b006da8a489ec7f38fe52837a07474608"
+    },
+    {
+      "albums" : [
+        "Trip"
+      ],
+      "deleted" : false,
+      "favorite" : false,
+      "file" : "2026-11-17_141147_7b17e79d.jpg",
+      "id" : "7B17E79D-17F2-4C2C-AD4C-8E15E48395B7",
+      "kind" : "photo",
+      "mergedKey" : false,
+      "missing" : false,
+      "sha256" : "531354fd13f7f99ded8f548959b5a5e48422a1ed7dd3309077f60f2c83985c59"
+    },
+    {
+      "albums" : [
+
+      ],
+      "deleted" : false,
+      "favorite" : false,
+      "file" : "2026-11-17_141147_d6f162b3.jpg",
+      "id" : "D6F162B3-5672-4831-9392-67EF2E6FEDF0",
+      "kind" : "photo",
+      "mergedKey" : true,
+      "missing" : false,
+      "sha256" : "ea291eb69e83cbea3a0685e1eb77d52f1f1de4fa7ed4222bd96ecf74eaaf84bf"
+    }
+  ],
+  "passphrase" : "Café fixture 2026"
+}
